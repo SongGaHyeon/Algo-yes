@@ -9,7 +9,7 @@
     문제의 경우 각자 1개씩 고르고, 나머지 한 문제는 BOJ 문제집에 따라 순차적으로 푸는 것으로 한다. 
 
 ### 참여자
-    [송가현](https://github.com/SongGaHyeon), [조윤주](https://github.com/yunju727)
+    송가현(https://github.com/SongGaHyeon), 조윤주(https://github.com/yunju727)
     
 ### 깃 활용 방식
 
