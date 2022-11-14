@@ -9,14 +9,19 @@
     문제의 경우 각자 1개씩 고르고, 나머지 한 문제는 BOJ 문제집에 따라 순차적으로 푸는 것으로 한다. 
 
 ### 참여자
-    송가현, 조윤주
+    [송가현](https://github.com/SongGaHyeon), [조윤주](https://github.com/yunju727)
     
 ### 깃 활용 방식
 
-📌 문제 풀기 전 , *Did it* column은 🖤로 채워져있다. <br>
-📌 다 풀었을 경우, [윤주](https://github.com/yunju727) 는 💚, [가현](https://github.com/SongGaHyeon) 은 💙 으로 문제를 풀었음을 표시한다. <br>
+    📌 문제 풀기 전 , *Did it* column은 🖤로 채워져있다. <br>
+    📌 다 풀었을 경우, [윤주](https://github.com/yunju727) 는 💚, [가현](https://github.com/SongGaHyeon) 은 💙 으로 문제를 풀었음을 표시한다. <br>
 
-
+### 벌칙
+    문제를 일주일동안 못 풀 경우, 500원씩 낸다.
+    어려워서 구현을 조금 못한 것은 인정- 하지만 문제를 시간 상 못 푼거면 벌칙 수행
+    
+    
+    
 
 <br><br>
 
