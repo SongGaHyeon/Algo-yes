@@ -31,5 +31,5 @@
 |------|---|-----|
 |DP|[2579](https://www.acmicpc.net/problem/2579)|🖤🖤|
 |DP|[2839](https://www.acmicpc.net/problem/2839)|🖤🖤|
-||[14916](https://www.acmicpc.net/problem/14916)|🖤🖤|
+|greedy|[14916](https://www.acmicpc.net/problem/14916)|🖤🖤|
 
