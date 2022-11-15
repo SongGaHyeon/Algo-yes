@@ -30,5 +30,6 @@
 |알고리즘|문제|Did it?|
 |------|---|-----|
 |DP|[2579](https://www.acmicpc.net/problem/2579)|🖤🖤|
-|DP|dp문제|🖤🖤|
-|DP|dp문제|🖤🖤|
+|DP|[2839](https://www.acmicpc.net/problem/2839)|🖤🖤|
+||[14916](https://www.acmicpc.net/problem/14916)|🖤🖤|
+
